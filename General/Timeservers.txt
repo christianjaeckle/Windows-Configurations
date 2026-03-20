@@ -1,0 +1,4 @@
+de.pool.ntp.org
+time1.uni-stuttgart.de
+ptbtime2.ptb.de
+ntp2.fau.de
