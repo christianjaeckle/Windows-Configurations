@@ -1,2 +1,2 @@
 # Windows-Configurations
-General Windows configurations and configuration files for various applications.
+My Windows configurations and configuration files for various applications.
