@@ -1,2 +1,2 @@
-# Configurations
-General configurations and configuration files for various applications
+# Windows-Configurations
+General Windows configurations and configuration files for various applications.
